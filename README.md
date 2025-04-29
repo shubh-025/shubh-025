@@ -1,11 +1,13 @@
 👋 Hi, I’m @shubh-025
 
-👀 I’m interested in making succesful collabs with open source projects related to c++
+👀 Expert at Codeforces (rating 1708) 
 
-🌱 I’m currently learning DSA in C++, front end development , react js , javascript
+🌱 5 star (rated 2050) at Codeforces 
 
-💞️ I’m looking to collaborate on open source C++ projects, and web development projects
+💞️ Knight (rated 1877) at Leetcode
 
-📫 Linkdin profile- https://www.linkedin.com/in/shubh-sharma-398a88226/  
+📫 Solved over 1000+ DSA questions on various coding platforms
+
+Linkdin profile- https://www.linkedin.com/in/shubh-sharma-398a88226/  
 
 ... Email shubhsharma.ms38@gmail.com
