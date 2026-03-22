@@ -15,7 +15,7 @@
 |----------|--------|-------|
 | Codeforces | 1708 | Expert |
 | CodeChef | 2043 | 5 Star |
-| LeetCode | 1877 | Knight |
+| LeetCode | 2000 | Knight |
 
 - 📊 **1500+ DSA problems** solved across various platforms
 
@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Skills
 
-**Languages:** C, C++, Python, SQL, HTML, MATLAB ,Javascript
+**Languages:** C, C++, Python, SQL, Javascript, MATLAB, R
 **Technical:** Data Structures, Algorithms, DBMS, ML, Problem Solving
 
 ---
